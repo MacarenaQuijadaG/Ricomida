@@ -1,0 +1,27 @@
+nav{
+    background-color: #373a3c;
+    font-family: 'Cabin', sans-serif;
+}
+section p{
+    font-family: 'Cabin', sans-serif;
+    font-size: 19px;
+}
+#tamano-img{
+    max-width: 250px; 
+}
+li{
+    list-style-type: none;
+    font-family: 'Cabin', sans-serif;
+    font-size: 1.2rem;
+}
+#noticia{
+    background-color: #DC3545;  
+}
+#texto-fondo{
+    margin-top: 150px;
+}
+footer{
+    background-color: #373a3c;
+    text-align: center;
+}
+
