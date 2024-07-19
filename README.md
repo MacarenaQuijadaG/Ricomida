@@ -1,6 +1,6 @@
 # Ricomida
 
-## Visuales
+## Visuales 
 ![1](https://github.com/MacarenaQuijadaG/Ricomida/assets/50925916/9eae5049-82f0-4dab-9497-466ead6b8b91)
 ![2](https://github.com/MacarenaQuijadaG/Ricomida/assets/50925916/2a6b402b-bf77-4a98-b289-a8ec38b84931)
 ![3](https://github.com/MacarenaQuijadaG/Ricomida/assets/50925916/ead9269a-a503-48f1-8838-36bf9de6adcf)
